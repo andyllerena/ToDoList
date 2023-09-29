@@ -11,7 +11,6 @@ public class Task {
             this.date = date;
 
         }
-
         public String getTask() {
             return task;
         }
