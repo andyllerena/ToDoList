@@ -1,8 +1,4 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
-
-    public class Task {
+public class Task {
 
         String task;
         String description;
